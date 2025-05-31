@@ -1,7 +1,7 @@
 # trade_tracker_api
 # Notes
 
-i got tired of reading books and working out — the sun was too much, the pool downstairs full of screaming kids, and my brain needed a different kind of distraction. something a bit more technical, something to chew on. so i went looking and stumbled across replit bounties. seemed fun at first, but i’m not really in the mood to enter a cash-prize race with strangers. instead, i thought i’d just pick a challenge, build it for fun, and publish the result here.
+i got bored duing the weekend — the sun was too much, the garden is full of screaming kids, and my brain needed a different kind of distraction. something a bit more technical, something to chew on. so i went looking and stumbled across replit bounties. seemed fun at first, but i’m not really in the mood to enter a cash-prize race with strangers. instead, i thought i’d just pick a challenge, build it for fun, and publish the result here.
 
 > if you ever find any of this useful — take it, it’s yours.  
 > unless you’re gonna make over $100k with it. in that case, you better let me in.
